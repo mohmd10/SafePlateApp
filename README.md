@@ -1,6 +1,6 @@
 # SafePlate - Your Personalized Food Allergy Assistant
 
-[![SafePlate](https://www.safeplateapp.com/)](https://www.safeplateapp.com/)
+[[SafePlate](https://www.safeplateapp.com/)](https://www.safeplateapp.com/)
 
 ## Overview
 
@@ -22,3 +22,37 @@ To get started with SafePlate, follow the steps below:
 
    ```bash
    git clone https://github.com/yourusername/safeplate.git
+
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd safeplate
+
+   
+ 3. Install the necessary dependencies:
+   
+      ```bash
+      npm install
+
+    
+   4. Start the development server:
+   
+      ```bash
+      npm start
+
+   
+   5. Open your browser and navigate to http://localhost:3000 to explore SafePlate.
+
+   
+   ## Contributing
+   
+   We welcome contributions from the community! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
+   
+   ## License
+   
+   This project is licensed under the MIT License. See the LICENSE file for more details.
+   
+   ## Contact
+   
+   For more information, visit our website at [(https://www.safeplateapp.com/)] or reach out to us at [(https://www.support@safeplateapp.com/)].
