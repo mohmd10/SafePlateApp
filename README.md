@@ -1,6 +1,8 @@
 # SafePlate - Your Personalized Food Allergy Assistant
 
-[![SafePlate](SPAPP/SPAPP/assets/images/safeplatelogo.png)](https://www.safeplateapp.com/)
+<a href="https://www.safeplateapp.com/">
+  <img src="SPAPP/SPAPP/assets/images/safeplatelogo.png" alt="SafePlate" width="200"/>
+</a>
 
 ## Overview
 
