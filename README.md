@@ -1,6 +1,6 @@
 # SafePlate - Your Personalized Food Allergy Assistant
 
-[![SafePlate](https://www.safeplateapp.com/)](https://www.safeplateapp.com/)
+[![SafePlate](images/safeplate-icon.png)](https://www.safeplateapp.com/)
 
 ## Overview
 
